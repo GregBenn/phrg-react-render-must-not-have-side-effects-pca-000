@@ -39,3 +39,4 @@
 
 ## Resources
 - [ReactElement render()](https://facebook.github.io/react/docs/component-specs.html#render)
+<p data-visibility='hidden'>PHRG React render() must not have side effects</p>
